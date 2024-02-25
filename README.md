@@ -1,12 +1,12 @@
-Simple WebSocket Echo Server
+#Simple WebSocket Echo Server
 This project is a Node.js-based WebSocket server that provides echo functionality, allowing clients to send messages to the server, which then echoes the messages back to the clients. Additionally, the server supports message broadcasting, enabling it to send the received messages to all connected clients.
 
 Installation
 Clone the repository:
 
-bash
-Copy code
+'''
 git clone https://github.com/mkuhikar/simple-websocket-echo-server.git
+'''
 Navigate to the project directory:
 
 bash
